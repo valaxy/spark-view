@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	width: 100%;
+
+	body {
+		width: 100%;
+
+		.view {
+			//width: 600px;
+			border: 1px solid red;
+		}
+	}
+
+}
